@@ -1,2 +1,3 @@
-# TCP SOCKET
-## 利用Python進行one by one 的對話 
+# program
+## Python 3.x
+# TODO
