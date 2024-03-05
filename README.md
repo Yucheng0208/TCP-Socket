@@ -67,4 +67,4 @@ python client.py --host 127.0.0.1 --port 2000
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Make sure to replace "your-username" in the repository URL and update the file names if needed. Additionally, provide information about how to customize the host and port settings for both the server and the client.
+Make sure to replace "Yucheng0208" in the repository URL and update the file names if needed. Additionally, provide information about how to customize the host and port settings for both the server and the client.
